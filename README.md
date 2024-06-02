@@ -1,5 +1,5 @@
 # TRABAJO: Comunicación de Datos y Redes GRUPO7
-
+Grupo 7: Matías Lagos y Álvaro Jorquera
 # Conecta 4 - Juego de Cliente y Servidor
 
 Este proyecto implementa un juego de Conecta 4 utilizando sockets para la comunicación entre un cliente y un servidor.
@@ -22,7 +22,7 @@ Este proyecto implementa un juego de Conecta 4 utilizando sockets para la comuni
 
 Para compilar los archivos fuente, ejecute el siguiente comando en la terminal:
 
-```sh make
+sh make
 Esto generará los ejecutables cliente y servidor.
 
 ## Ejecución
